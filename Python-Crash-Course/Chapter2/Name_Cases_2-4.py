@@ -1,0 +1,2 @@
+person_name = input("Enter the person name: ")
+print(f"\n Person name in lower case {person_name.lower()}\n Person name in upper case {person_name.upper()}\n Person name in title case: {person_name.title()}\n")
